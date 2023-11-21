@@ -1,0 +1,1 @@
+object.style.borderColor="#FF0000 blue" 
